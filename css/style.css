@@ -46,7 +46,8 @@ a {
 }
 
 .header-menu-item:focus,
-.header-menu-item:hover {
+.header-menu-item:hover,
+.header-menu-item:active {
    color: #404bbf;
 }
 
