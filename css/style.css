@@ -53,7 +53,7 @@ a {
     color: #2e2f42; 
 }
 
-.header-menu-link:hover:focus:active {
+.header-menu-link:hover {
     color: #404bbf;
 }
 
@@ -61,7 +61,7 @@ a {
     color: #404bbf;
 }
 
-.header-menu-link:active {
+.header-menu-item:active {
     text-decoration: underline;
 }
 
