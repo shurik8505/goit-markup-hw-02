@@ -145,9 +145,10 @@ button {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 0.072px;
+    letter-spacing: 0.02em;
     color: #2e2f42;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .team-menu {
@@ -187,6 +188,8 @@ button {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
     color: #2e2f42;
 }
 .portfolio-menu {
