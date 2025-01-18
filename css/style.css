@@ -53,9 +53,10 @@ a {
     color: #2e2f42; 
 }
 
-.header-menu-link:hover,
-.header-menu-link:focus,
-.header-menu-link:active,
+.header-menu-link:hover:focus:active {
+    color: #404bbf;
+}
+
 .header-address-link:hover  {
     color: #404bbf;
 }
