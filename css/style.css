@@ -54,7 +54,7 @@ a {
 }
 
 .header-menu-link:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 .header-menu-link:active {
@@ -62,10 +62,6 @@ a {
 }
 
 .header-menu-link:hover {
-    color: #404bbf;
-}
-
-.header-address-link:hover  {
     color: #404bbf;
 }
 
@@ -97,6 +93,10 @@ a {
 }
 
 .header-address-link:hover {
+    color: #404bbf;
+}
+
+.header-address-link:hover  {
     color: #404bbf;
 }
 
