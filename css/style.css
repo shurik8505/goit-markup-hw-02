@@ -96,6 +96,10 @@ y
     color: #404bbf;
 }
 
+.header-address-link:hover {
+    color: #404bbf;
+}
+
 /* =============HERO================= */
 
 .hero {
