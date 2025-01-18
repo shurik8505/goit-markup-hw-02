@@ -59,6 +59,10 @@ a {
     color: #404bbf;
 }
 
+.header-menu-link:focus {
+    color: #404bbf;
+}
+
 .header-menu-link:active {
     text-decoration: underline;
 }
