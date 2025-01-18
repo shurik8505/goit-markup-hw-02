@@ -54,13 +54,13 @@ a {
 }
 
 .header-menu-link:focus {
-    color: #404bbf;
+    color: #404bbf
 }
 
 .header-menu-link:active {
     color: #404bbf;
 }
-
+y
 .header-menu-link:hover {
     color: #404bbf;
 }
@@ -70,7 +70,7 @@ a {
 }
 
 .header-menu-item:active {
-    text-decoration: underline;
+    text-decoration: underline;  
 }
 
 .header-address {
@@ -92,7 +92,7 @@ a {
      color: #434455;
 }
 
-{
+.header-address-link:focus {
     color: #404bbf;
 }
 
