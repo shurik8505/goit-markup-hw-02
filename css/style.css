@@ -45,12 +45,9 @@ a {
 .header-menu-list {
 }
 
-.header-menu-item {
-   
-}
-
-.studio {
-    color: #404bbf;
+.header-menu-item:focus,
+.header-menu-item:hover {
+   color: #404bbf;
 }
 
 .header-menu-link {
