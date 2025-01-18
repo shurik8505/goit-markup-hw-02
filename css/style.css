@@ -21,7 +21,21 @@ a {
 }
 
 .header-logo {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
 }
+.header-logo span {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+    }
 
 .header-logo-img {
 }
@@ -89,10 +103,15 @@ a {
 }
 .hero-btn {
     background: #4d5ae5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
 }
 
 .hero-btn:hover {
-    background: #404bbf;
+    background-color: #404bbf;
 }
 
 .hero-btn span {
@@ -230,7 +249,7 @@ button {
     color: #f4f4fd;
 }
 
-     .footer-logo-studio {
+.footer-logo-studio {
         font-weight: 700;
         font-size: 18px;
         line-height: 1.17;
@@ -238,3 +257,21 @@ button {
         text-transform: uppercase;
         color: #f4f4fd;
     }
+
+.footer-logo {
+    font-weight: 700;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.footer-logo span {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd;
+    }
+
